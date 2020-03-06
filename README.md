@@ -1,5 +1,12 @@
 # DAZN code challenge
 
+## Assumptions
+
+This is a microservice with only responsible for providing other services with the information about whether the user requested is currently consuming 3 streams or more.
+
+The storage service will be updated by another service (maybe via websockets?)
+The service is not probably public facing, so no authentication/authorisation was provided, the assumption is the `streamService` responsible for serving the videos will be the only consumer
+
 ## Running the app locally
 
 Checkout the project in GitHub, then run the following commands in the root directory:
