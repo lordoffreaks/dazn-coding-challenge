@@ -18,13 +18,7 @@ Checkout the project in GitHub, then run the following commands in the root dire
 ## Running tests
 
 ```
-nvm use
-npm run test
-```
-or in a CI environment
-
-```
-./scripts/docker-run-unit-tests.sh
+./scripts/docker-run-tests.sh
 ```
 
 ## Architecture
