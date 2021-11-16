@@ -22,7 +22,7 @@
   },
   "author": "alex311es@gmail.com",
   "dependencies": {
-    "aws-sdk": "^2.634.0",
+    "aws-sdk": "^2.814.0",
     "connect-datadog": "0.0.9",
     "convict": "^5.2.0",
     "express": "^4.13.3",
