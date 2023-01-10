@@ -24,7 +24,7 @@
   "dependencies": {
     "aws-sdk": "^2.634.0",
     "connect-datadog": "0.0.9",
-    "convict": "^5.2.0",
+    "convict": "^6.2.4",
     "express": "^4.13.3",
     "morgan": "^1.7.0",
     "node-statsd": "^0.1.1"
